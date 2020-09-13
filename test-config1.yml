@@ -11,4 +11,5 @@ server:
   port: 8002
 spring:
   profiles: test
-  application: test-test
+  application: 
+    name: test-test
